@@ -1,0 +1,23 @@
+{
+  "name": "first_project",
+  "version": "1.0.0",
+  "description": "test project-dummie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "start",
+    "first",
+    "testing",
+    "random"
+  ],
+  "author": "egw_hehe",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "webpack": "^4.31.0"
+  }
+}
